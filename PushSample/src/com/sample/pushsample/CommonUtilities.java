@@ -1,5 +1,5 @@
 package com.sample.pushsample;
 
 public final class CommonUtilities {
-	static final String SENDER_ID  = "XXXXXXXXXX"; // ‚±‚±‚ÉProject Number‚ğ“ü‚ê‚é
+	static final String SENDER_ID  = "XXXXXXXXXX"; // ã“ã“ã«Project Numberã‚’å…¥ã‚Œã‚‹
 }
